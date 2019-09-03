@@ -1,0 +1,6 @@
+- multiplayer splitscreen support
+
+- multiplayer via ethernet (or any other protocoll) via direct connection
+
+- support for controller use (e.g. xbox)
+
